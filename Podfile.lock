@@ -1,0 +1,24 @@
+PODS:
+  - Atributika (4.4.3)
+  - EzPopup (1.0)
+  - IQKeyboardManagerSwift (6.1.1)
+
+DEPENDENCIES:
+  - Atributika
+  - EzPopup
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Atributika
+    - EzPopup
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  Atributika: c2ecee6c96af80c29d6ed1606e70fa137e51790f
+  EzPopup: 8ab951717736197e57b8f9973816fa2601cd59c5
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+
+PODFILE CHECKSUM: 9044091a0a08130fdccfc2e620360f83c9f7da4b
+
+COCOAPODS: 1.5.2

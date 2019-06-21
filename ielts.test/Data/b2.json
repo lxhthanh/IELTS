@@ -1,0 +1,1347 @@
+{
+    "etype": 0,
+    "version": "1.0",
+    "timeLimit": 45,
+    "passingScore": 12,
+    "totalScore": 15,
+    "fileInfo": "Load OK",
+    "sections": [
+        {
+            "id": 11,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening - Part 1",
+            "description": "This is desc [0]"
+        },
+        {
+            "id": 12,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening - Part 2",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 13,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening - Part 3",
+            "description": "This is desc [2]"
+        },
+        {
+            "id": 14,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening - Part 4",
+            "description": "This is desc [3]"
+        },
+        {
+            "id": 15,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening - Part 5",
+            "description": "This is desc [4]"
+        },
+        {
+            "id": 21,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 1",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 22,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 2",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 23,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 3",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 24,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 4",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 25,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 5",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 26,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 6",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 27,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 7",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 31,
+            "ids": "",
+            "avatar": 0,
+            "title": "Speaking Tests - Part 1",
+            "description": "This is desc [9]"
+        },
+        {
+            "id": 32,
+            "ids": "",
+            "avatar": 0,
+            "title": "Speaking Tests - Part 2",
+            "description": "This is desc [9]"
+        },
+        {
+            "id": 33,
+            "ids": "",
+            "avatar": 0,
+            "title": "Speaking Tests - Part 3",
+            "description": "This is desc [9]"
+        }
+    ],
+    "variants": [
+        {
+            "questions": [
+                {
+                    "qid": 111,
+                    "parentId": -1,
+                    "qtype": 70,
+                    "sectionId": 11,
+                    "qtitle": " ",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "3D printing is likely a process in which a three-dimensional object is formed of material joined or solidified under the control of computer technology. Invented a couple of decades ago, this type of printing does not show much difference from a normal printer in operation. A 3D printer generates a much thinner layer of ink and forming an object printed takes much more time, though. Another distinct feature is the materials utilized which range from inexpensive plastic, wax, resin to pricey titan or gold. Thanks to a special software called CAD (computer aided design), the printing process takes place building up layers of the substances, similarly to the one conducted with ink.",
+                                ""
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "texts": [
+                                "Back to the old days, initial additive manufacturing equipment and materials were developed in the 1980s. The first year welcomed Hideo Kodama’s invention of two additive methods for manufacturing three-dimensional plastic models with photo-hardening thermoset polymer. In 1984, Alain Le Méhauté, Olivier de Witte, and Jean Claude André introduced the stereolithography process, which was however rejected by the French General Electric Company and the Laser Consortium as they did not see any commercial prospect applying this to production. Three weeks later, Chuck Hull coming from 3D Systems Corporation obtained patent for stereolithography fabrication system, in which layers are added by curing photopolymers with ultraviolet light lasers. It was in 1988 when the technology used by most 3D printers to date, namely fused deposition modeling, was innovated. This special application of plastic extrusion was first developed by S. Scott Crump and then commercialized by his company Stratasys in early 1990s.",
+                                ""
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "texts": [
+                                "In the era of advanced technology, it is speculated that 3D printing would greatly contribute to the world sustainable development. The modern printed models created with CAD result in reduced errors and can be corrected before printing, allowing verification in the design of the object before it is printed. The manual modeling process of preparing geometric data for 3D computer graphics is similar to plastic arts such as sculpting. 3D scanning is a process of collecting digital data on the shape and appearance of a real object, creating a digital model based on it. Currently, 3D printing has been used in manufacturing, medical, industry and sociocultural sectors which facilitate 3D printing to become successful commercial technology.",
+                                ""
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "texts": [
+                                "3D printing has entered the world of clothing, with fashion designers experimenting with 3D-printed bikinis, shoes, and dresses. In commercial production, Nike is using 3D printing to prototype and manufacture the 2012 Vapor Laser Talon football shoe for players of American football, and New Balance is 3D manufacturing custom-fit shoes for athletes.  Vanessa Friedman, fashion director and chief fashion critic at The New York Times, says 3D printing will have a significant value for fashion companies down the road, especially if it transforms into a print-it-yourself tool for shoppers",
+                                ""
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "texts": [
+                                "Surgical uses of 3D printing-centric therapies have a history beginning in the mid-1990s with anatomical modeling for bony reconstructive surgery planning. In March 2014, surgeons in Swansea used 3D printed parts to rebuild the face of a motorcyclist who had been seriously injured in a road accident. In May 2018, 3D printing has been used for the kidney transplant to save a three-year-old boy.",
+                                ""
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "texts": [
+                                "In 2005, academic journals had begun to report on the possible artistic applications of 3D printing technology. As of 2017, domestic 3D printing was reaching a consumer audience beyond hobbyists and enthusiasts. Off the shelf machines were increasingly capable of producing practical household applications, for example, ornamental objects. Some practical examples include a working clock and gears printed for home woodworking machines among other purposes. Web sites associated with home 3D printing tended to include backscratchers, coat hooks, door knobs, etc.",
+                                ""
+                            ],
+                            "type": 0
+                        },
+                        {
+                            "texts": [
+                                "In the last several years 3D printing has been intensively used by in the cultural heritage field for preservation, restoration and dissemination purposes. Many Europeans and North American Museums have purchased 3D printers and actively recreate missing pieces of their relics. The Metropolitan Museum of Art and the British Museum have started using their 3D printers to create museum souvenirs that are available in the museum shops. Other museums, like the National Museum of Military History and Varna Historical Museum, have gone further and sell through the online platform Threeding digital models of their artifacts, created using Artec 3D scanners, in 3D printing friendly file format, which everyone can 3D print at home.",
+                                ""
+                            ],
+                            "type": 0
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [],
+                            "type": 0
+                        }
+                    ],
+                    "answers": [],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 121,
+                    "parentId": -1,
+                    "qtype": 0,
+                    "sectionId": 13,
+                    "qtitle": "QUESTION 14",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Choose the correct letter <b>A, B, C,</b> or <b>D.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>What is implied in the first paragraph?</b>"
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>B</b>. In the first paragraph"
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "The outcomes of both conventional and 3D printers are similar in quality."
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": true,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Distinctive features of 3D printers lie in the layer and substances."
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": false,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Without the assistance of CAD, 3D printers will be alike a normal one."
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": false,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "The operation of 3D printers costs a lot of time and money."
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 122,
+                    "parentId": -1,
+                    "qtype": 0,
+                    "sectionId": 13,
+                    "qtitle": "QUESTION 15",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Choose the correct letter <b>A, B, C,</b> or <b>D.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>Whose project was turned down due to its insufficient potential for business?</b>"
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>B</b>. In the second paragraph"
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Hideo Kodama"
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": true,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Alain Le Méhauté, Olivier de Witte, and Jean Claude André"
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": false,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Chuck Hull"
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": false,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "S. Scott Crump"
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 123,
+                    "parentId": -1,
+                    "qtype": 0,
+                    "sectionId": 13,
+                    "qtitle": "QUESTION 16",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Choose the correct letter <b>A, B, C,</b> or <b>D.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>Which factor has contributed to the commercial success of 3D printing technology?</b>"
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>D</b>. In the third paragraph"
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:E",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "The equipment proving sustainable and applicable in use "
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": false,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "A flawless system releasing high quality products"
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": false,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Its resemblance to arts."
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": true,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Its improvements in manufacture and popularity in use "
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 124,
+                    "parentId": -1,
+                    "qtype": 0,
+                    "sectionId": 13,
+                    "qtitle": "QUESTION 17",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Choose the correct letter <b>A, B, C,</b> or <b>D.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>In what field is the application of 3D printing technology NOT mentioned?</b>"
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>A</b>. C (medicine) is mentioned in the fifth paragraph. D (decoration) is mentioned in the sixth paragraph (ornamental objects). B (Restoration) is mentioned in the last paragraph."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": true,
+                            "answerValue": "data:B",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Art performance"
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": false,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Restoration"
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": false,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Medicine"
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        },
+                        {
+                            "isRightAnswer": false,
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "Decoration"
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 131,
+                    "parentId": -1,
+                    "qtype": 230,
+                    "sectionId": 14,
+                    "qtitle": "QUESTION 18",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Complete the sentences below. ",
+                                "Choose <b>NO MORE THAN ONE WORD</b> and/ or <b>A NUMBER</b> from the passage to each answer. "
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "t2_p18_q1_0.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:126,58,479,90:type:512"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>value</b>, mentioned in the fourth paragraph."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "",
+                            "isRightAnswer": false,
+                            "answerValue": "data:value",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        ""
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 132,
+                    "parentId": -1,
+                    "qtype": 230,
+                    "sectionId": 14,
+                    "qtitle": "QUESTION 19",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Complete the sentences below. ",
+                                "Choose <b>NO MORE THAN ONE WORD</b> and/ or <b>A NUMBER</b> from the passage to each answer. "
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "t2_p19_q1_0.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:40,63,390,102:type:512"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>mid-1990s</b>, mentioned in the fifth paragraph."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "",
+                            "isRightAnswer": false,
+                            "answerValue": "data:mid-1990s",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        ""
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 133,
+                    "parentId": -1,
+                    "qtype": 230,
+                    "sectionId": 14,
+                    "qtitle": "QUESTION 20",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Complete the sentences below. ",
+                                "Choose <b>NO MORE THAN ONE WORD</b> and/ or <b>A NUMBER</b> from the passage to each answer. "
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "t2_p20_q1_0.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:214,60,510,93:type:512"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>hobbyists</b>, mentioned in the sixth paragraph."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "",
+                            "isRightAnswer": false,
+                            "answerValue": "data:hobbyists",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "A simulation of an internal organ"
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 134,
+                    "parentId": -1,
+                    "qtype": 230,
+                    "sectionId": 14,
+                    "qtitle": "QUESTION 21",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Complete the sentences below. ",
+                                "Choose <b>NO MORE THAN ONE WORD</b> and/ or <b>A NUMBER</b> from the passage to each answer. "
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "t2_p21_q1_0.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:145,66,440,100:type:512"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>souvenirs</b>, mentioned in the last paragraph."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "",
+                            "isRightAnswer": false,
+                            "answerValue": "data:souvenirs",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "--"
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 135,
+                    "parentId": -1,
+                    "qtype": 230,
+                    "sectionId": 14,
+                    "qtitle": "QUESTION 22",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Complete the sentences below. ",
+                                "Choose <b>NO MORE THAN ONE WORD</b> and/ or <b>A NUMBER</b> from the passage to each answer. "
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "t2_p22_q1_0.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:106,61,403,95:type:512"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>relics</b>, mentioned in the last paragraph."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "",
+                            "isRightAnswer": false,
+                            "answerValue": "data:relics",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "--"
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 141,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 15,
+                    "qtitle": "QUESTION 23",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "In which year did the following events happen?",
+                                "Choose the letter <b>A – G</b> to each answer."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>An announcement of a 3D printing application on the press.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::data:A:Rec:10,12,388,89:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:14:name::data:D. 2005:Rec:319,187,553,276:type:32",
+                                "id:11:name::data:A. 1984:Rec:68,38,290,130:type:32",
+                                "id:12:name::data:B. 1988:Rec:317,39,554,129:type:32",
+                                "id:13:name::data:C. 1992:Rec:593,38,809,128:type:32",
+                                "id:15:name::data:E. 2014:Rec:79,331,286,431:type:32",
+                                "id:16:name::data:F. 2017:Rec:326,331,551,430:type:32",
+                                "id:17:name::data:G. 2018:Rec:576,331,813,430:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>D</b> (2005), mentioned at the beginning of the sixth paragraph."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:D. 2005",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t2_p15_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 142,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 15,
+                    "qtitle": "QUESTION 24",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "In which year did the following events happen?",
+                                "Choose the letter <b>A – G</b> to each answer."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>A simulation of an internal organ.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::data:A:Rec:10,13,388,88:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:14:name::data:D. 2005:Rec:319,187,553,276:type:32",
+                                "id:11:name::data:A. 1984:Rec:68,38,290,130:type:32",
+                                "id:12:name::data:B. 1988:Rec:317,39,554,129:type:32",
+                                "id:13:name::data:C. 1992:Rec:593,38,809,128:type:32",
+                                "id:15:name::data:E. 2014:Rec:79,331,286,431:type:32",
+                                "id:16:name::data:F. 2017:Rec:326,331,551,430:type:32",
+                                "id:17:name::data:G. 2018:Rec:576,331,813,430:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>G</b> (2018), mentioned at the end of the fifth paragraph."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:G. 2018",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t2_p15_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 143,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 15,
+                    "qtitle": "QUESTION 25",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "In which year did the following events happen?",
+                                "Choose the letter <b>A – G</b> to each answer."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>A product launch.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::data:A:Rec:14,12,389,86:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:14:name::data:D. 2005:Rec:319,187,553,276:type:32",
+                                "id:11:name::data:A. 1984:Rec:68,38,290,130:type:32",
+                                "id:12:name::data:B. 1988:Rec:317,39,554,129:type:32",
+                                "id:13:name::data:C. 1992:Rec:593,38,809,128:type:32",
+                                "id:15:name::data:E. 2014:Rec:79,331,286,431:type:32",
+                                "id:16:name::data:F. 2017:Rec:326,331,551,430:type:32",
+                                "id:17:name::data:G. 2018:Rec:576,331,813,430:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>C</b> (1992), mentioned at the end of the second paragraph. Only the option <b>1992</b> matches “early 1990s”."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:C. 1992",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t2_p15_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 144,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 15,
+                    "qtitle": "QUESTION 26",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "In which year did the following events happen?",
+                                "Choose the letter <b>A – G</b> to each answer."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>A market expanded.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::data:A:Rec:10,14,388,84:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:14:name::data:D. 2005:Rec:319,187,553,276:type:32",
+                                "id:11:name::data:A. 1984:Rec:68,38,290,130:type:32",
+                                "id:12:name::data:B. 1988:Rec:317,39,554,129:type:32",
+                                "id:13:name::data:C. 1992:Rec:593,38,809,128:type:32",
+                                "id:15:name::data:E. 2014:Rec:79,331,286,431:type:32",
+                                "id:16:name::data:F. 2017:Rec:326,331,551,430:type:32",
+                                "id:17:name::data:G. 2018:Rec:576,331,813,430:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>F</b> (2017), mentioned in the second sentence of the sixth paragraph."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:F. 2017",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t2_p15_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                }
+            ],
+            "id": 0,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening",
+            "description": "Listening Description"
+        }
+    ],
+    "sets": [
+        {
+            "id": 0,
+            "ids": "",
+            "avatar": 1,
+            "title": "Total Question",
+            "description": "All Questions"
+        },
+        {
+            "id": 0,
+            "ids": "",
+            "avatar": 2,
+            "title": "Random",
+            "description": "Random / All Question"
+        }
+    ],
+    "id": 0,
+    "ids": "F2T1",
+    "avatar": 0,
+    "title": "3D Printing"
+}

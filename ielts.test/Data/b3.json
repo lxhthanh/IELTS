@@ -1,0 +1,1375 @@
+{
+    "etype": 0,
+    "version": "1.0",
+    "timeLimit": 45,
+    "passingScore": 12,
+    "totalScore": 15,
+    "fileInfo": "Load OK",
+    "sections": [
+        {
+            "id": 11,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening - Part 1",
+            "description": "This is desc [0]"
+        },
+        {
+            "id": 12,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening - Part 2",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 13,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening - Part 3",
+            "description": "This is desc [2]"
+        },
+        {
+            "id": 14,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening - Part 4",
+            "description": "This is desc [3]"
+        },
+        {
+            "id": 15,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening - Part 5",
+            "description": "This is desc [4]"
+        },
+        {
+            "id": 21,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 1",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 22,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 2",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 23,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 3",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 24,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 4",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 25,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 5",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 26,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 6",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 27,
+            "ids": "",
+            "avatar": 0,
+            "title": "Reading and Writing - Part 7",
+            "description": "This is desc [1]"
+        },
+        {
+            "id": 31,
+            "ids": "",
+            "avatar": 0,
+            "title": "Speaking Tests - Part 1",
+            "description": "This is desc [9]"
+        },
+        {
+            "id": 32,
+            "ids": "",
+            "avatar": 0,
+            "title": "Speaking Tests - Part 2",
+            "description": "This is desc [9]"
+        },
+        {
+            "id": 33,
+            "ids": "",
+            "avatar": 0,
+            "title": "Speaking Tests - Part 3",
+            "description": "This is desc [9]"
+        }
+    ],
+    "variants": [
+        {
+            "questions": [
+                {
+                    "qid": 111,
+                    "parentId": -1,
+                    "qtype": -1,
+                    "sectionId": 11,
+                    "qtitle": " ",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "<b>HEADING</b>",
+                                "<b>I.</b>\tInspirations drawn from daily life",
+                                "<b>II.</b>\tHistorical and cultural characteristics of electronic texts",
+                                "<b>III.</b> How the range of emoji was increasingly widened",
+                                "<b>IV.</b>\tThe extension of symbol numbers on the computer",
+                                "<b>V.</b>\tThe driving factor behind the widespread of emoji",
+                                "<b>VI.</b>\tFeatures and impacts",
+                                "<b>VII.</b> Potential tension as a result of communications involved emoji",
+                                ""
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "<b>EMOJI</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "<b>A</b> Emoji are popularly seen in electronic messages and web pages. They exist in many different forms, including facial expressions, common objects, places and types of weather, and animals. Originally meaning pictograph, the word emoji comes from Japanese e (picture) and moji (character). The resemblance to the English words emotion and emoticon is purely coincidental. Originating on Japanese mobile phones in 1999, emoji became increasingly popular worldwide in the 2010s after being added to several mobile operating systems. They are now considered to be a large part of popular culture in the west. In 2015, Oxford Dictionaries named the Face with Tears of Joy emoji the Word of the Year.",
+                                ""
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "<b>B</b> The first emoji was created in 1999 in Japan by Shigetaka Kurita. He was part of the team working on NTT DoCoMo's i-mode mobile Internet platform. Kurita took inspiration from weather forecasts that used symbols to show weather, Chinese characters and street signs, and from manga that used stock symbols to express emotions, such as light bulbs signifying inspiration. Emoji were initially used by the Japanese mobile operators NTT DoCoMo, au, and Soft Bank Mobile. These companies each defined their own variants of emoji using proprietary standards. The first set of 176 12×12 pixel emoji was created as part of i-mode's messaging features to help facilitate electronic communication, and to serve as a distinguishing feature from other services. Kurita created the first 180 emoji based on the expressions that he observed people making and other things in the city. ",
+                                ""
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "<b>C</b> From 2010 onwards, some emoji character sets have been incorporated into Unicode, a standard system for indexing characters, which has allowed them to be used outside Japan and to be standardized across different operating systems. Hundreds of emoji characters were encoded in the Unicode Standard in version 6.0 released in October 2010. The popularity of emoji has caused pressure from vendors and international markets to add additional designs into the Unicode standard to meet the demands of different cultures.",
+                                ""
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "<b>D</b> The additions, originally requested by Google and Apple Inc. went through a long series of commenting by members of the Unicode Consortium and national standardization bodies of various countries especially the United States, Germany, Ireland, and Japan. Unicode 7.0 added approximately 250 emoji, many from the Webdings and Wingdings fonts. Some characters now defined as emoji are inherited from a variety of pre-Unicode messenger systems not only used in Japan, including Yahoo and MSN Messenger. Unicode 8.0 added another 41 emoji, including articles of sports equipment such as the cricket bat, food items such as the taco, signs of the Zodiac, new facial expressions, and symbols for places of worship.",
+                                ""
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "<b>E</b> Research has shown that emoji is often misunderstood. In some cases, this is related to how the actual emoji design is interpreted by the viewer; in other cases, the emoji that was sent is not shown in the same way on the receiving side. The first issue relates to the cultural or contextual interpretation of the emoji. When the author picks an emoji, they think about it in a certain way, but the same character may not trigger the same thoughts in the mind of the receiver. The second problem has to do with technology and branding. When an author of a message picks an emoji from a list, it is normally encoded in a non-graphical manner during the transmission, and if the author and the reader do not use the same software or operating system for their devices, the reader's device may visualize the same emoji in a different way. Small changes to a character's look may completely alter its perceived meaning with the receiver.",
+                                ""
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [],
+                            "type": 0
+                        }
+                    ],
+                    "answers": [],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 121,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 13,
+                    "qtitle": "QUESTION 27",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Choose the correct heading for each paragraph from the list of headings below."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>Paragraph A</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:8,13,389,88:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:11:name::data:I. Inspirations drawn from daily life:Rec:3,22,443,70:type:32",
+                                "id:12:name::data:II. Historical and cultural characteristics of electronic texts:Rec:1,90,512,164:type:32",
+                                "id:13:name::data:III. How the range of emoji was increasingly widened:Rec:3,188,510,236:type:32",
+                                "id:15:name::data:V. The driving factor behind the widespread of emoji:Rec:2,320,512,360:type:32",
+                                "id:16:name::data:VI. Features and impacts:Rec:2,386,510,424:type:32",
+                                "id:17:name::data:VII. Potential tension as a result of communications involved emoji:Rec:3,452,517,522:type:32",
+                                "id:14:name::data:IV. The extension of symbol numbers on the computer:Rec:3,253,511,294:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>VI</b>. Paragraph A introduces emoji, its characteristics and its global influence. The whole passage is about emoji which is not fully an electronic text as mentioned in option ii."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:VI. Features and impacts",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t3_p13_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 122,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 13,
+                    "qtitle": "QUESTION 28",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Choose the correct heading for each paragraph from the list of headings below."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>Paragraph B</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:9,12,391,90:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:11:name::data:I. Inspirations drawn from daily life:Rec:3,22,443,70:type:32",
+                                "id:12:name::data:II. Historical and cultural characteristics of electronic texts:Rec:1,90,512,164:type:32",
+                                "id:13:name::data:III. How the range of emoji was increasingly widened:Rec:3,188,510,236:type:32",
+                                "id:15:name::data:V. The driving factor behind the widespread of emoji:Rec:2,320,512,360:type:32",
+                                "id:16:name::data:VI. Features and impacts:Rec:2,386,510,424:type:32",
+                                "id:17:name::data:VII. Potential tension as a result of communications involved emoji:Rec:3,452,517,522:type:32",
+                                "id:14:name::data:IV. The extension of symbol numbers on the computer:Rec:3,253,511,294:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>I</b>. Paragraph B indicates the inspiration of the Japanese creator."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "Exp :: [1] This is line [0]"
+                            ],
+                            "type": 1
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:I. Inspirations drawn from daily life",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t3_p13_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 123,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 13,
+                    "qtitle": "QUESTION 29",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Choose the correct heading for each paragraph from the list of headings below."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>Paragraph C</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:9,10,393,90:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:11:name::data:I. Inspirations drawn from daily life:Rec:3,22,443,70:type:32",
+                                "id:12:name::data:II. Historical and cultural characteristics of electronic texts:Rec:1,90,512,164:type:32",
+                                "id:13:name::data:III. How the range of emoji was increasingly widened:Rec:3,188,510,236:type:32",
+                                "id:15:name::data:V. The driving factor behind the widespread of emoji:Rec:2,320,512,360:type:32",
+                                "id:16:name::data:VI. Features and impacts:Rec:2,386,510,424:type:32",
+                                "id:17:name::data:VII. Potential tension as a result of communications involved emoji:Rec:3,452,517,522:type:32",
+                                "id:14:name::data:IV. The extension of symbol numbers on the computer:Rec:3,253,511,294:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>V</b>. Paragraph C describes the inclusion of emoji in Unicode as the reason for its popularity."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:V. The driving factor behind the widespread of emoji",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t3_p13_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 124,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 13,
+                    "qtitle": "QUESTION 30",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Choose the correct heading for each paragraph from the list of headings below."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>Paragraph D</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:8,12,393,91:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:11:name::data:I. Inspirations drawn from daily life:Rec:3,22,443,70:type:32",
+                                "id:12:name::data:II. Historical and cultural characteristics of electronic texts:Rec:1,90,512,164:type:32",
+                                "id:13:name::data:III. How the range of emoji was increasingly widened:Rec:3,188,510,236:type:32",
+                                "id:15:name::data:V. The driving factor behind the widespread of emoji:Rec:2,320,512,360:type:32",
+                                "id:16:name::data:VI. Features and impacts:Rec:2,386,510,424:type:32",
+                                "id:17:name::data:VII. Potential tension as a result of communications involved emoji:Rec:3,452,517,522:type:32",
+                                "id:14:name::data:IV. The extension of symbol numbers on the computer:Rec:3,253,511,294:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>III</b>. Paragraph D describes the addition of emoji in different versions of Unicode. In this context, emoji is not symbol on computer as mentioned in option iv."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:III. How the range of emoji was increasingly widened",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t3_p13_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 125,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 13,
+                    "qtitle": "QUESTION 31",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Choose the correct heading for each paragraph from the list of headings below."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>Paragraph E</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:9,10,391,89:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:11:name::data:I. Inspirations drawn from daily life:Rec:3,22,443,70:type:32",
+                                "id:12:name::data:II. Historical and cultural characteristics of electronic texts:Rec:1,90,512,164:type:32",
+                                "id:13:name::data:III. How the range of emoji was increasingly widened:Rec:3,188,510,236:type:32",
+                                "id:15:name::data:V. The driving factor behind the widespread of emoji:Rec:2,320,512,360:type:32",
+                                "id:16:name::data:VI. Features and impacts:Rec:2,386,510,424:type:32",
+                                "id:17:name::data:VII. Potential tension as a result of communications involved emoji:Rec:3,452,517,522:type:32",
+                                "id:14:name::data:IV. The extension of symbol numbers on the computer:Rec:3,253,511,294:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>VII</b>. Paragraph E explains how communication may break down due to texting emoji."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:VII. Potential tension as a result of communications involved emoji",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t3_p13_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 131,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 14,
+                    "qtitle": "QUESTION 32",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Do the following statements agree with the information given in the passage?",
+                                "Choose <b>TRUE/ FALSE/ NOT GIVEN</b> for each statement below."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>Emoji is likely another term of emoticon.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:7,10,391,88:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:11:name::data:TRUE:Rec:13,16,209,138:type:32",
+                                "id:12:name::data:FALSE:Rec:278,13,515,136:type:32",
+                                "id:13:name::data:NOT GIVEN:Rec:609,13,985,132:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>FALSE</b>. The statement contradicts the information given in paragraph A (“The resemblance to the English words emotion and emoticon is purely coincidental.”)"
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "",
+                            "isRightAnswer": false,
+                            "answerValue": "data:FALSE",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t3_p14_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 132,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 14,
+                    "qtitle": "QUESTION 33",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Do the following statements agree with the information given in the passage?",
+                                "Choose <b>TRUE/ FALSE/ NOT GIVEN</b> for each statement below."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>The integration of emoji in Unicode System is an attempt to satisfy the demand of culture diversity.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:7,10,390,90:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:11:name::data:TRUE:Rec:13,16,209,138:type:32",
+                                "id:12:name::data:FALSE:Rec:278,13,515,136:type:32",
+                                "id:13:name::data:NOT GIVEN:Rec:609,13,985,132:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>NOT GIVEN</b>. ‘The integration of emoji in Unicode System’ and ‘the demand of culture diversity’ are both mentioned in paragraph C, but the relation between the two details is not given."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "",
+                            "isRightAnswer": false,
+                            "answerValue": "data:NOT GIVEN",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t3_p14_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 133,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 14,
+                    "qtitle": "QUESTION 34",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Do the following statements agree with the information given in the passage?",
+                                "Choose <b>TRUE/ FALSE/ NOT GIVEN</b> for each statement below."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>Emoji has not been considered as exclusive ideograms of Japanese resources.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:8,11,390,89:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:11:name::data:TRUE:Rec:13,16,209,138:type:32",
+                                "id:12:name::data:FALSE:Rec:278,13,515,136:type:32",
+                                "id:13:name::data:NOT GIVEN:Rec:609,13,985,132:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>TRUE</b>. The statement agrees with information given in paragraph D (“Some characters … MSN Messenger.”)"
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "",
+                            "isRightAnswer": false,
+                            "answerValue": "data:TRUE",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t3_p14_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 134,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 14,
+                    "qtitle": "QUESTION 35",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Do the following statements agree with the information given in the passage?",
+                                "Choose <b>TRUE/ FALSE/ NOT GIVEN</b> for each statement below."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>The constant expansion of symbol ranges in almost every aspect possibly leads to plentiful commercial benefits.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:7,8,392,91:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:11:name::data:TRUE:Rec:13,16,209,138:type:32",
+                                "id:12:name::data:FALSE:Rec:278,13,515,136:type:32",
+                                "id:13:name::data:NOT GIVEN:Rec:609,13,985,132:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>NOT GIVEN</b>. ‘The constant expansion of symbol ranges in almost every aspect’ is mentioned in paragraph D, but ‘plentiful commercial benefits’ is not given."
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "",
+                            "isRightAnswer": false,
+                            "answerValue": "data:NOT GIVEN",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t3_p14_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 135,
+                    "parentId": -1,
+                    "qtype": 240,
+                    "sectionId": 14,
+                    "qtitle": "QUESTION 36",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Do the following statements agree with the information given in the passage?",
+                                "Choose <b>TRUE/ FALSE/ NOT GIVEN</b> for each statement below."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>It was not until the addition of Unicode 8.0 took place that facial expressions were found on emoji.</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "blank.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::Rec:6,8,394,92:type:1024"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        },
+                        {
+                            "texts": [
+                                "id:11:name::data:TRUE:Rec:13,16,209,138:type:32",
+                                "id:12:name::data:FALSE:Rec:278,13,515,136:type:32",
+                                "id:13:name::data:NOT GIVEN:Rec:609,13,985,132:type:32"
+                            ],
+                            "type": 130
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>FALSE</b>. The statement contradicts the information given in paragraph D (“. Unicode 8.0 … worship.”) The sentence implies that facial expressions had already existed, and the new version of Unicode just added further facial expressions. "
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "",
+                            "isRightAnswer": false,
+                            "answerValue": "data:FALSE",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "t3_p14_q1_a1.jpg"
+                                    ],
+                                    "type": 10
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": 141,
+                    "parentId": -1,
+                    "qtype": 230,
+                    "sectionId": 15,
+                    "qtitle": "QUESTION 37-40",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "Use no more than ONE WORD to complete the following summary."
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                ""
+                            ],
+                            "type": 30
+                        },
+                        {
+                            "texts": [
+                                "<b>Misunderstood signs</b>"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "t3_p15_q1_0.jpg"
+                            ],
+                            "type": 10
+                        },
+                        {
+                            "texts": [
+                                "id:1:name::data:A:Rec:62,64,360,109:type:512",
+                                "id:2:name::data:B:Rec:286,121,508,160:type:512",
+                                "id:3:name::data:C:Rec:282,271,510,317:type:512",
+                                "id:4:name::Rec:141,429,443,472:type:512"
+                            ],
+                            "type": 100
+                        },
+                        {
+                            "texts": [
+                                "id:1"
+                            ],
+                            "type": 120
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>interpreted</b> In paragraph E "
+                            ],
+                            "type": 9
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:interpreted",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        ""
+                                    ],
+                                    "type": 9
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": -1,
+                    "parentId": 141,
+                    "qtype": 220,
+                    "sectionId": 15,
+                    "qtitle": "",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "id:2"
+                            ],
+                            "type": 120
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>cultural</b> In paragraph E "
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "Exp :: [1] This is line [0]"
+                            ],
+                            "type": 1
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:cultural",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "--"
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": -1,
+                    "parentId": 141,
+                    "qtype": 220,
+                    "sectionId": 15,
+                    "qtitle": "",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "id:3"
+                            ],
+                            "type": 120
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>alter</b> In paragraph E"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "Exp :: [1] This is line [0]"
+                            ],
+                            "type": 1
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:alter",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "--"
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                },
+                {
+                    "qid": -1,
+                    "parentId": 141,
+                    "qtype": 220,
+                    "sectionId": 15,
+                    "qtitle": "",
+                    "allowShuffle": false,
+                    "qcontents": [
+                        {
+                            "texts": [
+                                "id:4"
+                            ],
+                            "type": 120
+                        }
+                    ],
+                    "qcontentsPost": [],
+                    "explanation": [
+                        {
+                            "texts": [
+                                "<b>devices</b> In paragraph E"
+                            ],
+                            "type": 9
+                        },
+                        {
+                            "texts": [
+                                "Exp :: [1] This is line [0]"
+                            ],
+                            "type": 1
+                        }
+                    ],
+                    "answers": [
+                        {
+                            "atitle": "This is content title [0]",
+                            "isRightAnswer": false,
+                            "answerValue": "data:devices",
+                            "acontents": [
+                                {
+                                    "texts": [
+                                        "--"
+                                    ],
+                                    "type": 0
+                                }
+                            ],
+                            "userAnswer": false
+                        }
+                    ],
+                    "exhibits": [
+                        {
+                            "texts": [
+                                "Exh :: [0] This is line [0]"
+                            ],
+                            "type": 0
+                        }
+                    ]
+                }
+            ],
+            "id": 0,
+            "ids": "",
+            "avatar": 0,
+            "title": "Listening",
+            "description": "Listening Description"
+        }
+    ],
+    "sets": [
+        {
+            "id": 0,
+            "ids": "",
+            "avatar": 1,
+            "title": "Total Question",
+            "description": "All Questions"
+        },
+        {
+            "id": 0,
+            "ids": "",
+            "avatar": 2,
+            "title": "Random",
+            "description": "Random / All Question"
+        }
+    ],
+    "id": 0,
+    "ids": "F2T1",
+    "avatar": 0,
+    "title": "EMOJI"
+}

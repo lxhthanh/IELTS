@@ -1,0 +1,1341 @@
+{
+  "etype": 0,
+  "version": "1.0",
+  "timeLimit": 45,
+  "passingScore": 12,
+  "totalScore": 15,
+  "fileInfo": "Load OK",
+  "sections": [
+    {
+      "id": 11,
+      "ids": "",
+      "avatar": 0,
+      "title": "Listening - Part 1",
+      "description": "This is desc [0]"
+    }
+  ],
+  "variants": [
+    {
+      "questions": [
+        {
+          "qid": 111,
+          "parentId": -1,
+          "qtype": -1,
+          "sectionId": 11,
+          "qtitle": " ",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "<b>A.</b> Covering over two-thirds of the Earth’s surface, water is essential to almost all living things. This vital liquid, however, has been a mortal danger in cases of heavy rain, flood, land slide, mudslide, which take place annually, causing damage to those that cannot live without it. People suffering from water shortages in some parts of the world may hardly imagine how desperate other races are in the opposite circumstances.",
+                ""
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                "<b>B.</b> Humans’ fights for survival in the water have been observed for long. Recently, such a case was brought to international prominence as it involved a group of young people’s life-and-death struggle in a cave rather than bodies of water like river or sea, a conventional battlefield possibly expected. Tham Luang Nang Non, which means ‘Great Cave of the Sleeping Lady’, is a karstic cave system in the Tham Luang–Khun Nam Nang Non Forest Park, in Chiang Rai, a northern province of Thailand. The cave's main entrance chamber is 80 metres long. It winds through 10.3 kilometres of limestone strata and has many deep recesses, narrow tunnels, boulder chokes, collapses, and sumps. Stalactites and stalagmites are found throughout the cave. There is a permanent stream inside the cave, which enters from the west, flows with the passage for several metres, and exits via the eastern wall.",
+                ""
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                "<b>C.</b> The victims comprised 12 teenage boys in a local football team called ‘Wild Boars’ and their 25-year-old assistant coach. To celebrate an initiation ceremony, the whole team paid an occasional visit to the cave in which they had their names written on the wall. On 23 June 2018, leaving all of their belongings and bikes at the cave entrance, they waded through the water inside at a shallow point. Out of the brave ones’ expectation, however, heavy rains shortly after partially flooded the cave, blocking the exit and forcing the group deeper into the cave. ",
+                ""
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                "<b>D.</b> Efforts to locate the group were hampered by rising water levels and strong currents, and no contact was made for more than a week. The rescue effort expanded into a massive operation amid intense worldwide media coverage and public interest. On 2 July, after advancing through narrow passages and muddy waters, two British divers found the group alive on an elevated rock about 4 kilometres (2.5 mi) from the cave mouth. Rescue organisers discussed various options for extracting the group: whether to teach them basic diving skills to enable their early rescue, wait until a new entrance was found or drilled, or wait for the floodwaters to subside at the end of the monsoon season months later.",
+                ""
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                "<b>E.</b> After days of pumping water from the cave system and a respite from rain, the rescue teams hastened to get everyone out before the next monsoon rain, which was expected to bring a potential 52 mm (2.0 in) of additional rainfall and was predicted to start around 11 July. Between 8 and 10 July, all of the boys and their coach were rescued from the cave by an international team of rescuers. Ten thousand people participated from multiple countries, including 2,000 soldiers, 200 divers and representatives from 100 government agencies. ",
+                ""
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                "<b>F.</b> The mission was finally accomplished, leaving not solely happiness but also sorrows and losses. A wave of pity washed over rescue participants and worldwide audience when the media reported the death of Saman Kunan, a 38-year-old former Thai SEAL, died of asphyxiation on 5 July while attempting to go through a narrow passageway on his return to the cave entrance after delivering supplies of air to the interior. Another sacrifice worth attention was made by generous farmers in the vicinity of the cave. The excess water inside the cave that blocked the boys’ escape route was funnelled onto nearby fields, streams and hastily dug underground wells, wiping out most of their crops and livestock.",
+                ""
+              ],
+              "type": 9
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [],
+              "type": 9
+            }
+          ],
+          "answers": [],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": 121,
+          "parentId": -1,
+          "qtype": 12,
+          "sectionId": 11,
+          "qtitle": "QUESTION 1",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "Which paragraph contains the following information?",
+                "Choose the letter A – F to each answer.",
+                "<b>NB</b> You may use any letter more than once"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                ""
+              ],
+              "type": 30
+            },
+            {
+              "texts": [
+                "<b>a reference to the cave features</b>"
+              ],
+              "type": 9
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "The information can be found in paragraph <b>B</b> (“Tham Luang … eastern wall.”)"
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "This is content title [0]",
+              "isRightAnswer": false,
+              "answerValue": "",
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": true,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": 122,
+          "parentId": -1,
+          "qtype": 12,
+          "sectionId": 13,
+          "qtitle": "QUESTION 2",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "Which paragraph contains the following information?",
+                "Choose the letter A – F to each answer.",
+                "<b>NB</b> You may use any letter more than once"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                ""
+              ],
+              "type": 30
+            },
+            {
+              "texts": [
+                "<b>a reference to a comprehensive description of the rescue participants</b>"
+              ],
+              "type": 9
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "The information can be found in paragraph <b>E</b> (“Ten thousand … 100 government agencies”)"
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "This is content title [0]",
+              "isRightAnswer": false,
+              "answerValue": "data:F",
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": true,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": 123,
+          "parentId": -1,
+          "qtype": 12,
+          "sectionId": 13,
+          "qtitle": "QUESTION 3",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "Which paragraph contains the following information?",
+                "Choose the letter A – F to each answer.",
+                "<b>NB</b> You may use any letter more than once"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                ""
+              ],
+              "type": 30
+            },
+            {
+              "texts": [
+                "<b>a reference to measures possibly taken to rescue those stuck inside</b>"
+              ],
+              "type": 9
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "The information can be found in paragraph <b>D</b> (“Rescue organisers … months later.”)"
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "This is content title [0]",
+              "isRightAnswer": false,
+              "answerValue": "data:E",
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": true,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": 124,
+          "parentId": -1,
+          "qtype": 12,
+          "sectionId": 11,
+          "qtitle": "QUESTION 4",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "Which paragraph contains the following information?",
+                "Choose the letter A – F to each answer.",
+                "<b>NB</b> You may use any letter more than once"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                ""
+              ],
+              "type": 30
+            },
+            {
+              "texts": [
+                "<b>a reference to the cause of the incident </b>"
+              ],
+              "type": 9
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "The information can be found in paragraph <b>C</b> (“To celebrate … the cave.”)"
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "This is content title [0]",
+              "isRightAnswer": false,
+              "answerValue": "data:B",
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": true,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": 125,
+          "parentId": -1,
+          "qtype": 12,
+          "sectionId": 13,
+          "qtitle": "QUESTION 5",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "Which paragraph contains the following information?",
+                "Choose the letter A – F to each answer.",
+                "<b>NB</b> You may use any letter more than once"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                ""
+              ],
+              "type": 30
+            },
+            {
+              "texts": [
+                "<b>a reference to property damages</b>"
+              ],
+              "type": 9
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "The information can be found in paragraph <b>F</b> (“Another sacrifice … and livestock.”)"
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "This is content title [0]",
+              "isRightAnswer": false,
+              "answerValue": "data:G",
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": true,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": 126,
+          "parentId": -1,
+          "qtype": 12,
+          "sectionId": 13,
+          "qtitle": "QUESTION 6",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "Which paragraph contains the following information?",
+                "Choose the letter A – F to each answer.",
+                "<b>NB</b> You may use any letter more than once"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                ""
+              ],
+              "type": 30
+            },
+            {
+              "texts": [
+                "<b>a reference to victims’ identity</b>"
+              ],
+              "type": 9
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "The information can be found in paragraph <b>C</b> (“The victims … assistant coach”). Questions 3 & 6 have the same answer. This is fine because according to the instruction, you may use any letter more than once."
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "This is content title [0]",
+              "isRightAnswer": false,
+              "answerValue": "data:G",
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": true,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            },
+            {
+              "isRightAnswer": false,
+              "acontents": [
+                {
+                  "texts": [
+                    ""
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": 131,
+          "parentId": -1,
+          "qtype": 240,
+          "sectionId": 14,
+          "qtitle": "QUESTION 7-10",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "Complete the summary with no more than <b>TWO WORDS</b> and/ or <b>A NUMBER</b>. "
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                ""
+              ],
+              "type": 30
+            },
+            {
+              "texts": [
+                "t1_p14_q1_0.jpg"
+              ],
+              "type": 10
+            },
+            {
+              "texts": [
+                "id:1:name::Rec:51,111,272,148:type:512",
+                "id:2:name::Rec:5,217,234,253:type:512",
+                "id:3:name::Rec:6,317,234,357:type:512",
+                "id:4:name::Rec:4,475,210,511:type:512"
+              ],
+              "type": 100
+            },
+            {
+              "texts": [
+                "id:1"
+              ],
+              "type": 120
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "<b>Wild Boars</b>. The answer can be found in paragraph C."
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "",
+              "isRightAnswer": false,
+              "answerValue": "data:Wild Boars",
+              "acontents": [
+                {
+                  "texts": [
+                    "--"
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": -1,
+          "parentId": 131,
+          "qtype": 220,
+          "sectionId": 14,
+          "qtitle": "",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "id:2"
+              ],
+              "type": 120
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "<b>initiation ceremony</b>. The answer can be found in paragraph C."
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "",
+              "isRightAnswer": false,
+              "answerValue": "data:initiation ceremony",
+              "acontents": [
+                {
+                  "texts": [
+                    "--"
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": -1,
+          "parentId": 131,
+          "qtype": 220,
+          "sectionId": 14,
+          "qtitle": "",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "id:3"
+              ],
+              "type": 120
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "<b>their names</b> or <b>names</b>. The answer can be found in paragraph C."
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "",
+              "isRightAnswer": false,
+              "answerValues": "data:names||data:their names",
+              "acontents": [
+                {
+                  "texts": [
+                    "--"
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": -1,
+          "parentId": 131,
+          "qtype": 220,
+          "sectionId": 14,
+          "qtitle": "",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "id:4"
+              ],
+              "type": 120
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "<b>heavy rains</b>. The answer can be found in paragraph C."
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "",
+              "isRightAnswer": false,
+              "answerValue": "data:heavy rains",
+              "acontents": [
+                {
+                  "texts": [
+                    "--"
+                  ],
+                  "type": 0
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": 141,
+          "parentId": -1,
+          "qtype": 240,
+          "sectionId": 13,
+          "qtitle": "QUESTION 11",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "Do the following statements agree with the claims of the writer?",
+                "Choose <b>YES</b>/ <b>NO</b>/ <b>NOT GIVEN</b> for each statement below"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                ""
+              ],
+              "type": 30
+            },
+            {
+              "texts": [
+                "<b>The children and their trainer found it desperate waiting for help for a long time.</b>"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                "t1_p15_q1_0.jpg"
+              ],
+              "type": 10
+            },
+            {
+              "texts": [
+                "id:1:name::Rec:8,7,394,92:type:1024"
+              ],
+              "type": 100
+            },
+            {
+              "texts": [
+                "id:1"
+              ],
+              "type": 120
+            },
+            {
+              "texts": [
+                "id:11:name::data:YES:Rec:13,19,162,168:type:32",
+                "id:12:name::data:NO:Rec:216,22,365,171:type:32",
+                "id:13:name::data:NOT GIVEN:Rec:423,20,760,175:type:32"
+              ],
+              "type": 130
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "<b>NOT GIVEN</b>. The children and their trainer are mentioned in the reading passage, but their desperate feeling is not mentioned."
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "This is content title [0]",
+              "isRightAnswer": false,
+              "answerValue": "data:NOT GIVEN",
+              "acontents": [
+                {
+                  "texts": [
+                    "t1_p15_q1_a1.jpg"
+                  ],
+                  "type": 10
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": 142,
+          "parentId": -1,
+          "qtype": 240,
+          "sectionId": 13,
+          "qtitle": "QUESTION 12",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "Do the following statements agree with the claims of the writer?",
+                "Choose <b>YES</b>/ <b>NO</b>/ <b>NOT GIVEN</b> for each statement below"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                ""
+              ],
+              "type": 30
+            },
+            {
+              "texts": [
+                "<b>The ones in charge of the project decided not to wait until the rainy season ended.</b>"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                "t1_p15_q1_0.jpg"
+              ],
+              "type": 10
+            },
+            {
+              "texts": [
+                "id:1:name::Rec:11,8,390,89:type:1024"
+              ],
+              "type": 100
+            },
+            {
+              "texts": [
+                "id:1"
+              ],
+              "type": 120
+            },
+            {
+              "texts": [
+                "id:11:name::data:YES:Rec:13,19,162,168:type:32",
+                "id:12:name::data:NO:Rec:216,22,365,171:type:32",
+                "id:13:name::data:NOT GIVEN:Rec:423,20,760,175:type:32"
+              ],
+              "type": 130
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "<b>TRUE</b>. The information is given at the beginning of paragraph E (“After days … monsoon rain”)"
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "This is content title [0]",
+              "isRightAnswer": false,
+              "answerValue": "data:YES",
+              "acontents": [
+                {
+                  "texts": [
+                    "t1_p15_q1_a1.jpg"
+                  ],
+                  "type": 10
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        },
+        {
+          "qid": 143,
+          "parentId": -1,
+          "qtype": 240,
+          "sectionId": 13,
+          "qtitle": "QUESTION 13",
+          "allowShuffle": false,
+          "qcontents": [
+            {
+              "texts": [
+                "Do the following statements agree with the claims of the writer?",
+                "Choose <b>YES</b>/ <b>NO</b>/ <b>NOT GIVEN</b> for each statement below"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                ""
+              ],
+              "type": 30
+            },
+            {
+              "texts": [
+                "<b>The target of the rescue was ultimately achieved without leaving any considerable human suffering.</b>"
+              ],
+              "type": 9
+            },
+            {
+              "texts": [
+                "t1_p15_q1_0.jpg"
+              ],
+              "type": 10
+            },
+            {
+              "texts": [
+                "id:1:name::Rec:12,9,390,89:type:1024"
+              ],
+              "type": 100
+            },
+            {
+              "texts": [
+                "id:1"
+              ],
+              "type": 120
+            },
+            {
+              "texts": [
+                "id:11:name::data:YES:Rec:13,19,162,168:type:32",
+                "id:12:name::data:NO:Rec:216,22,365,171:type:32",
+                "id:13:name::data:NOT GIVEN:Rec:423,20,760,175:type:32"
+              ],
+              "type": 130
+            }
+          ],
+          "qcontentsPost": [],
+          "explanation": [
+            {
+              "texts": [
+                "<b>FALSE</b>. The information about human suffering is mentioned in paragraph F (“The mission … the interior.”). Then, the statement in question 13 contradicts the claim of the writer."
+              ],
+              "type": 9
+            }
+          ],
+          "answers": [
+            {
+              "atitle": "This is content title [0]",
+              "isRightAnswer": false,
+              "answerValue": "data:NO",
+              "acontents": [
+                {
+                  "texts": [
+                    "t1_p15_q1_a1.jpg"
+                  ],
+                  "type": 10
+                }
+              ],
+              "userAnswer": false
+            }
+          ],
+          "exhibits": [
+            {
+              "texts": [
+                "Exh :: [0] This is line [0]"
+              ],
+              "type": 0
+            }
+          ]
+        }
+      ],
+      "id": 0,
+      "ids": "",
+      "avatar": 0,
+      "title": "Listening",
+      "description": "Listening Description"
+    }
+  ],
+  "sets": [
+    {
+      "id": 0,
+      "ids": "",
+      "avatar": 1,
+      "title": "Total Question",
+      "description": "All Questions"
+    },
+    {
+      "id": 0,
+      "ids": "",
+      "avatar": 2,
+      "title": "Random",
+      "description": "Random / All Question"
+    }
+  ],
+  "id": 0,
+  "ids": "F2T1",
+  "avatar": 0,
+  "title": "THAILAND CAVE RECURE"
+}
